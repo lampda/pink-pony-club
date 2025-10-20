@@ -10,7 +10,7 @@
     <strong>pink</strong> -> <strong>pony</strong> (girl) -> <strong>club</strong> (chappell roan)
 </p>
 
-<img src="https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/pink-pony.png" alt="dark" style="border-radius:1%"/> 
+<img src="https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/pink-pony-club.png" alt="dark" style="border-radius:1%"/> 
 
 <p align="center">
     used https://github.com/ntk148v/komau.vim/ as a base so thanks to them
